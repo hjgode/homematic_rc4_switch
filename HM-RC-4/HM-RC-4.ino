@@ -4,6 +4,7 @@
 //- -----------------------------------------------------------------------------------------------------------------------
 
 // done with arduino 1.8.13 portable
+// for plain atmega atmel install as https://github.com/sleemanj/optiboot/blob/master/dists/README.md
 
 // define this to read the device id, serial and device type from bootloader section
 // #define USE_OTA_BOOTLOADER
